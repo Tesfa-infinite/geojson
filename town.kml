@@ -1,0 +1,1555 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="town" id="town">
+	<SimpleField name="id" type="int"></SimpleField>
+	<SimpleField name="fid" type="float"></SimpleField>
+	<SimpleField name="shape_leng" type="float"></SimpleField>
+	<SimpleField name="shape_area" type="float"></SimpleField>
+	<SimpleField name="adm2_en" type="string"></SimpleField>
+	<SimpleField name="adm2_pcode" type="string"></SimpleField>
+	<SimpleField name="adm2_ref" type="string"></SimpleField>
+	<SimpleField name="adm2alt1en" type="string"></SimpleField>
+	<SimpleField name="adm2alt2en" type="string"></SimpleField>
+	<SimpleField name="adm1_en" type="string"></SimpleField>
+	<SimpleField name="adm1_pcode" type="string"></SimpleField>
+	<SimpleField name="adm0_en" type="string"></SimpleField>
+	<SimpleField name="adm0_pcode" type="string"></SimpleField>
+	<SimpleField name="date" type="string"></SimpleField>
+	<SimpleField name="validon" type="string"></SimpleField>
+	<SimpleField name="validto" type="string"></SimpleField>
+	<SimpleField name="wkt_geom" type="string"></SimpleField>
+</Schema>
+<Folder><name>town</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">20</SimpleData>
+		<SimpleData name="fid">21</SimpleData>
+		<SimpleData name="shape_leng">0.42110426624</SimpleData>
+		<SimpleData name="shape_area">0.00639573493</SimpleData>
+		<SimpleData name="adm2_en">Dire Dawa urban</SimpleData>
+		<SimpleData name="adm2_pcode">ET1501</SimpleData>
+		<SimpleData name="adm1_en">Dire Dawa</SimpleData>
+		<SimpleData name="adm1_pcode">ET15</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4657135.471810874 1076409.2811695852)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>41.8357597454289,9.62397224748266</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">21</SimpleData>
+		<SimpleData name="fid">22</SimpleData>
+		<SimpleData name="shape_leng">8.93715443781</SimpleData>
+		<SimpleData name="shape_area">3.74535773371</SimpleData>
+		<SimpleData name="adm2_en">Doolo</SimpleData>
+		<SimpleData name="adm2_pcode">ET0507</SimpleData>
+		<SimpleData name="adm1_en">Somali</SimpleData>
+		<SimpleData name="adm1_pcode">ET05</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(5133716.699708013 808170.5384512001)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>46.1169617568734,7.24057038838684</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">22</SimpleData>
+		<SimpleData name="fid">23</SimpleData>
+		<SimpleData name="shape_leng">7.90587286365</SimpleData>
+		<SimpleData name="shape_area">2.07089386519</SimpleData>
+		<SimpleData name="adm2_en">East Bale</SimpleData>
+		<SimpleData name="adm2_pcode">ET0421</SimpleData>
+		<SimpleData name="adm1_en">Oromia</SimpleData>
+		<SimpleData name="adm1_pcode">ET04</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4592715.151881988 807777.1171152911)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>41.257062165429,7.23706439323282</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">23</SimpleData>
+		<SimpleData name="fid">24</SimpleData>
+		<SimpleData name="shape_leng">5.94627173299</SimpleData>
+		<SimpleData name="shape_area">1.16298468999</SimpleData>
+		<SimpleData name="adm2_en">East Gojam</SimpleData>
+		<SimpleData name="adm2_pcode">ET0306</SimpleData>
+		<SimpleData name="adm1_en">Amhara</SimpleData>
+		<SimpleData name="adm1_pcode">ET03</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4222485.04098084 1176128.9569040758)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.9312284927913,10.5059739436834</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">24</SimpleData>
+		<SimpleData name="fid">25</SimpleData>
+		<SimpleData name="shape_leng">9.85329748548</SimpleData>
+		<SimpleData name="shape_area">2.04932125019</SimpleData>
+		<SimpleData name="adm2_en">East Hararge</SimpleData>
+		<SimpleData name="adm2_pcode">ET0410</SimpleData>
+		<SimpleData name="adm1_en">Oromia</SimpleData>
+		<SimpleData name="adm1_pcode">ET04</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4675446.154269706 987746.3724741567)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>42.0002474045831,8.83782067288865</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">25</SimpleData>
+		<SimpleData name="fid">26</SimpleData>
+		<SimpleData name="shape_leng">8.45193967393</SimpleData>
+		<SimpleData name="shape_area">0.80419360734</SimpleData>
+		<SimpleData name="adm2_en">East Shewa</SimpleData>
+		<SimpleData name="adm2_pcode">ET0407</SimpleData>
+		<SimpleData name="adm1_en">Oromia</SimpleData>
+		<SimpleData name="adm1_pcode">ET04</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4360235.394754109 949105.8828031111)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.1686609746653,8.49467083921052</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">26</SimpleData>
+		<SimpleData name="fid">27</SimpleData>
+		<SimpleData name="shape_leng">8.07957716882</SimpleData>
+		<SimpleData name="shape_area">1.12402775001</SimpleData>
+		<SimpleData name="adm2_en">East Wellega</SimpleData>
+		<SimpleData name="adm2_pcode">ET0402</SimpleData>
+		<SimpleData name="adm1_en">Oromia</SimpleData>
+		<SimpleData name="adm1_pcode">ET04</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4076204.3293749103 1051722.5709964815)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.6171665027165,9.40525860743881</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">27</SimpleData>
+		<SimpleData name="fid">28</SimpleData>
+		<SimpleData name="shape_leng">4.92193172883</SimpleData>
+		<SimpleData name="shape_area">0.53240159195</SimpleData>
+		<SimpleData name="adm2_en">Eastern</SimpleData>
+		<SimpleData name="adm2_pcode">ET0103</SimpleData>
+		<SimpleData name="adm1_en">Tigray</SimpleData>
+		<SimpleData name="adm1_pcode">ET01</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4403947.020070952 1583031.702976492)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.5613291858236,14.076822797584</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">28</SimpleData>
+		<SimpleData name="fid">29</SimpleData>
+		<SimpleData name="shape_leng">4.45122742141</SimpleData>
+		<SimpleData name="shape_area">0.80276435811</SimpleData>
+		<SimpleData name="adm2_en">Erer</SimpleData>
+		<SimpleData name="adm2_pcode">ET0504</SimpleData>
+		<SimpleData name="adm1_en">Somali</SimpleData>
+		<SimpleData name="adm1_pcode">ET05</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4707219.591425275 879386.5467821427)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>42.2856730468417,7.8747538650636</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">29</SimpleData>
+		<SimpleData name="fid">30</SimpleData>
+		<SimpleData name="shape_leng">8.71676808069</SimpleData>
+		<SimpleData name="shape_area">1.36994249854</SimpleData>
+		<SimpleData name="adm2_en">Fafan</SimpleData>
+		<SimpleData name="adm2_pcode">ET0502</SimpleData>
+		<SimpleData name="adm1_en">Somali</SimpleData>
+		<SimpleData name="adm1_pcode">ET05</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4810965.209679083 1021612.2105048022)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>43.21763579222,9.13830674074078</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">30</SimpleData>
+		<SimpleData name="fid">31</SimpleData>
+		<SimpleData name="shape_leng">4.94730624898</SimpleData>
+		<SimpleData name="shape_area">0.92599603604</SimpleData>
+		<SimpleData name="adm2_en">Fanti /Zone 4</SimpleData>
+		<SimpleData name="adm2_pcode">ET0204</SimpleData>
+		<SimpleData name="adm1_en">Afar</SimpleData>
+		<SimpleData name="adm1_pcode">ET02</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4488143.562037064 1382951.597293156)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>40.3176795910053,12.3270499486653</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">31</SimpleData>
+		<SimpleData name="fid">32</SimpleData>
+		<SimpleData name="shape_leng">5.42620507175</SimpleData>
+		<SimpleData name="shape_area">0.36589065291</SimpleData>
+		<SimpleData name="adm2_en">Finfine Special</SimpleData>
+		<SimpleData name="adm2_pcode">ET0420</SimpleData>
+		<SimpleData name="adm1_en">Oromia</SimpleData>
+		<SimpleData name="adm1_pcode">ET04</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4309326.712621438 1013704.0566587931)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.7113405021237,9.06816135007217</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">32</SimpleData>
+		<SimpleData name="fid">33</SimpleData>
+		<SimpleData name="shape_leng">7.97487548236</SimpleData>
+		<SimpleData name="shape_area">1.3030147048</SimpleData>
+		<SimpleData name="adm2_en">Gabi /Zone 3</SimpleData>
+		<SimpleData name="adm2_pcode">ET0203</SimpleData>
+		<SimpleData name="adm1_en">Afar</SimpleData>
+		<SimpleData name="adm1_pcode">ET02</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4512863.560735117 1124095.299083295)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>40.539743117544,10.0460465624042</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">33</SimpleData>
+		<SimpleData name="fid">34</SimpleData>
+		<SimpleData name="shape_leng">4.10609194037</SimpleData>
+		<SimpleData name="shape_area">0.60581800767</SimpleData>
+		<SimpleData name="adm2_en">Gamo</SimpleData>
+		<SimpleData name="adm2_pcode">ET0710</SimpleData>
+		<SimpleData name="adm1_en">SNNP</SimpleData>
+		<SimpleData name="adm1_pcode">ET07</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4166580.692079439 690352.1868366848)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.4290311821225,6.1894657290316</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">34</SimpleData>
+		<SimpleData name="fid">35</SimpleData>
+		<SimpleData name="shape_leng">1.94520555788</SimpleData>
+		<SimpleData name="shape_area">0.11122243032</SimpleData>
+		<SimpleData name="adm2_en">Gedeo</SimpleData>
+		<SimpleData name="adm2_pcode">ET0705</SimpleData>
+		<SimpleData name="adm1_en">SNNP</SimpleData>
+		<SimpleData name="adm1_pcode">ET07</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4260469.142775072 685222.7622085741)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.2724454847444,6.14365394246122</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">35</SimpleData>
+		<SimpleData name="fid">36</SimpleData>
+		<SimpleData name="shape_leng">3.57898870507</SimpleData>
+		<SimpleData name="shape_area">0.37173120841</SimpleData>
+		<SimpleData name="adm2_en">Gofa</SimpleData>
+		<SimpleData name="adm2_pcode">ET0715</SimpleData>
+		<SimpleData name="adm1_en">SNNP</SimpleData>
+		<SimpleData name="adm1_pcode">ET07</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4103001.0439297226 710341.411011143)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.8578854852042,6.36795481185311</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">36</SimpleData>
+		<SimpleData name="fid">37</SimpleData>
+		<SimpleData name="shape_leng">7.63549217964</SimpleData>
+		<SimpleData name="shape_area">1.40768194887</SimpleData>
+		<SimpleData name="adm2_en">Guji</SimpleData>
+		<SimpleData name="adm2_pcode">ET0414</SimpleData>
+		<SimpleData name="adm1_en">Oromia</SimpleData>
+		<SimpleData name="adm1_pcode">ET04</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4363078.819505655 620570.9110281758)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.1942038938009,5.56590852945582</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">37</SimpleData>
+		<SimpleData name="fid">38</SimpleData>
+		<SimpleData name="shape_leng">5.29405197205</SimpleData>
+		<SimpleData name="shape_area">0.46853490674</SimpleData>
+		<SimpleData name="adm2_en">Guraghe</SimpleData>
+		<SimpleData name="adm2_pcode">ET0701</SimpleData>
+		<SimpleData name="adm1_en">SNNP</SimpleData>
+		<SimpleData name="adm1_pcode">ET07</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4237789.64604594 910921.8176763182)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.0687120992652,8.15527247034533</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">38</SimpleData>
+		<SimpleData name="fid">39</SimpleData>
+		<SimpleData name="shape_leng">5.1333222209</SimpleData>
+		<SimpleData name="shape_area">0.29908606021</SimpleData>
+		<SimpleData name="adm2_en">Hadiya</SimpleData>
+		<SimpleData name="adm2_pcode">ET0702</SimpleData>
+		<SimpleData name="adm1_en">SNNP</SimpleData>
+		<SimpleData name="adm1_pcode">ET07</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4203219.546707244 838939.516693354)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.7581636131704,7.51468432135899</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">39</SimpleData>
+		<SimpleData name="fid">40</SimpleData>
+		<SimpleData name="shape_leng">2.16380558271</SimpleData>
+		<SimpleData name="shape_area">0.08007620033</SimpleData>
+		<SimpleData name="adm2_en">Halaba</SimpleData>
+		<SimpleData name="adm2_pcode">ET0714</SimpleData>
+		<SimpleData name="adm1_en">SNNP</SimpleData>
+		<SimpleData name="adm1_pcode">ET07</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4254732.631957249 829311.7896189484)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.2209135312928,7.42893135277054</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">40</SimpleData>
+		<SimpleData name="fid">41</SimpleData>
+		<SimpleData name="shape_leng">0.76366797102</SimpleData>
+		<SimpleData name="shape_area">0.03051183782</SimpleData>
+		<SimpleData name="adm2_en">Harari</SimpleData>
+		<SimpleData name="adm2_pcode">ET1301</SimpleData>
+		<SimpleData name="adm1_en">Harari</SimpleData>
+		<SimpleData name="adm1_pcode">ET13</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4694624.10563133 1038681.0212365232)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>42.1725258728456,9.2896600237278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">41</SimpleData>
+		<SimpleData name="fid">42</SimpleData>
+		<SimpleData name="shape_leng">5.30850944436</SimpleData>
+		<SimpleData name="shape_area">0.45702841677</SimpleData>
+		<SimpleData name="adm2_en">Hari /Zone 5</SimpleData>
+		<SimpleData name="adm2_pcode">ET0205</SimpleData>
+		<SimpleData name="adm1_en">Afar</SimpleData>
+		<SimpleData name="adm1_pcode">ET02</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4482664.771363596 1165652.02116289)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>40.2684627770006,10.4134219776982</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">42</SimpleData>
+		<SimpleData name="fid">43</SimpleData>
+		<SimpleData name="shape_leng">4.90462511956</SimpleData>
+		<SimpleData name="shape_area">0.67286996658</SimpleData>
+		<SimpleData name="adm2_en">Horo Gudru Wellega</SimpleData>
+		<SimpleData name="adm2_pcode">ET0419</SimpleData>
+		<SimpleData name="adm1_en">Oromia</SimpleData>
+		<SimpleData name="adm1_pcode">ET04</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4140772.387191575 1086100.709345077)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.1971912347427,9.70979563345333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">43</SimpleData>
+		<SimpleData name="fid">44</SimpleData>
+		<SimpleData name="shape_leng">5.55921505234</SimpleData>
+		<SimpleData name="shape_area">0.83082672646</SimpleData>
+		<SimpleData name="adm2_en">Ilu Aba Bora</SimpleData>
+		<SimpleData name="adm2_pcode">ET0403</SimpleData>
+		<SimpleData name="adm1_en">Oromia</SimpleData>
+		<SimpleData name="adm1_pcode">ET04</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(3950334.20762538 922932.5964754797)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4864559609006,8.26206169674455</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">44</SimpleData>
+		<SimpleData name="fid">45</SimpleData>
+		<SimpleData name="shape_leng">2.20754294373</SimpleData>
+		<SimpleData name="shape_area">0.18050087441</SimpleData>
+		<SimpleData name="adm2_en">Itang Special woreda</SimpleData>
+		<SimpleData name="adm2_pcode">ET1204</SimpleData>
+		<SimpleData name="adm1_en">Gambela</SimpleData>
+		<SimpleData name="adm1_pcode">ET12</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(3809304.7998188604 932410.9911377793)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.2195672354714,8.34631482228163</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">45</SimpleData>
+		<SimpleData name="fid">46</SimpleData>
+		<SimpleData name="shape_leng">9.52498783975</SimpleData>
+		<SimpleData name="shape_area">3.20889500629</SimpleData>
+		<SimpleData name="adm2_en">Jarar</SimpleData>
+		<SimpleData name="adm2_pcode">ET0503</SimpleData>
+		<SimpleData name="adm1_en">Somali</SimpleData>
+		<SimpleData name="adm1_pcode">ET05</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4932474.5350803 908250.5746910024)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>44.3091726339296,8.13151824827988</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">46</SimpleData>
+		<SimpleData name="fid">47</SimpleData>
+		<SimpleData name="shape_leng">7.92032426798</SimpleData>
+		<SimpleData name="shape_area">1.4927315688</SimpleData>
+		<SimpleData name="adm2_en">Jimma</SimpleData>
+		<SimpleData name="adm2_pcode">ET0404</SimpleData>
+		<SimpleData name="adm1_en">Oromia</SimpleData>
+		<SimpleData name="adm1_pcode">ET04</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4100463.2805705816 884338.963847796)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.8350883690743,7.9188203081556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">47</SimpleData>
+		<SimpleData name="fid">48</SimpleData>
+		<SimpleData name="shape_leng">10.0366672426</SimpleData>
+		<SimpleData name="shape_area">0.83264889765</SimpleData>
+		<SimpleData name="adm2_en">Kamashi</SimpleData>
+		<SimpleData name="adm2_pcode">ET0604</SimpleData>
+		<SimpleData name="adm1_en">Benishangul Gumz</SimpleData>
+		<SimpleData name="adm1_pcode">ET06</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(3985099.294209704 1109536.0564420645)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.7987560472249,9.91723838141693</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">48</SimpleData>
+		<SimpleData name="fid">49</SimpleData>
+		<SimpleData name="shape_leng">7.24817643325</SimpleData>
+		<SimpleData name="shape_area">0.86227439874</SimpleData>
+		<SimpleData name="adm2_en">Kefa</SimpleData>
+		<SimpleData name="adm2_pcode">ET1102</SimpleData>
+		<SimpleData name="adm1_en">South West Ethiopia</SimpleData>
+		<SimpleData name="adm1_pcode">ET11</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4016170.9061311465 806738.8652350731)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.0778770861376,7.22781182561364</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">49</SimpleData>
+		<SimpleData name="fid">51</SimpleData>
+		<SimpleData name="shape_leng">3.15773091791</SimpleData>
+		<SimpleData name="shape_area">0.1110620087</SimpleData>
+		<SimpleData name="adm2_en">Kembata Tembaro</SimpleData>
+		<SimpleData name="adm2_pcode">ET0703</SimpleData>
+		<SimpleData name="adm1_en">SNNP</SimpleData>
+		<SimpleData name="adm1_pcode">ET07</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4201741.9886447 813542.4949628692)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.7448904832629,7.28844013205046</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">50</SimpleData>
+		<SimpleData name="fid">53</SimpleData>
+		<SimpleData name="shape_leng">2.34938692833</SimpleData>
+		<SimpleData name="shape_area">0.19073337276</SimpleData>
+		<SimpleData name="adm2_en">Konso</SimpleData>
+		<SimpleData name="adm2_pcode">ET0713</SimpleData>
+		<SimpleData name="adm1_en">SNNP</SimpleData>
+		<SimpleData name="adm1_pcode">ET07</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4159557.2256478695 597219.9545612602)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.3659383096927,5.3570956918355</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">51</SimpleData>
+		<SimpleData name="fid">54</SimpleData>
+		<SimpleData name="shape_leng">2.84812784675</SimpleData>
+		<SimpleData name="shape_area">0.19255019485</SimpleData>
+		<SimpleData name="adm2_en">Konta Special</SimpleData>
+		<SimpleData name="adm2_pcode">ET1106</SimpleData>
+		<SimpleData name="adm1_en">South West Ethiopia</SimpleData>
+		<SimpleData name="adm1_pcode">ET11</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4075267.003688777 766722.260428435)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.6087463628159,6.87105454657625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">52</SimpleData>
+		<SimpleData name="fid">55</SimpleData>
+		<SimpleData name="shape_leng">8.66232893055</SimpleData>
+		<SimpleData name="shape_area">2.73365123529</SimpleData>
+		<SimpleData name="adm2_en">Korahe</SimpleData>
+		<SimpleData name="adm2_pcode">ET0505</SimpleData>
+		<SimpleData name="adm1_en">Somali</SimpleData>
+		<SimpleData name="adm1_pcode">ET05</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4969349.0192313455 719370.2650520602)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>44.6404217609987,6.44855560843488</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">53</SimpleData>
+		<SimpleData name="fid">57</SimpleData>
+		<SimpleData name="shape_leng">2.28564160917</SimpleData>
+		<SimpleData name="shape_area">0.19051456042</SimpleData>
+		<SimpleData name="adm2_en">Majang</SimpleData>
+		<SimpleData name="adm2_pcode">ET1203</SimpleData>
+		<SimpleData name="adm1_en">Gambela</SimpleData>
+		<SimpleData name="adm1_pcode">ET12</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(3910581.8402109006 824194.5229014216)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.129354368617,7.38334566945325</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">54</SimpleData>
+		<SimpleData name="fid">58</SimpleData>
+		<SimpleData name="shape_leng">2.59281565072</SimpleData>
+		<SimpleData name="shape_area">0.261854144</SimpleData>
+		<SimpleData name="adm2_en">Mao Komo Special</SimpleData>
+		<SimpleData name="adm2_pcode">ET0605</SimpleData>
+		<SimpleData name="adm1_en">Benishangul Gumz</SimpleData>
+		<SimpleData name="adm1_pcode">ET06</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(3816661.054376901 1046186.2395415041)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.285649594505,9.3561899836888</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">55</SimpleData>
+		<SimpleData name="fid">59</SimpleData>
+		<SimpleData name="shape_leng">1.4716420533</SimpleData>
+		<SimpleData name="shape_area">0.04370796944</SimpleData>
+		<SimpleData name="adm2_en">Mekelle</SimpleData>
+		<SimpleData name="adm2_pcode">ET0107</SimpleData>
+		<SimpleData name="adm1_en">Tigray</SimpleData>
+		<SimpleData name="adm1_pcode">ET01</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4394998.487717642 1517193.6906988362)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.4809431519894,13.502439181139</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">56</SimpleData>
+		<SimpleData name="fid">60</SimpleData>
+		<SimpleData name="shape_leng">8.0429039693</SimpleData>
+		<SimpleData name="shape_area">2.10773297625</SimpleData>
+		<SimpleData name="adm2_en">Metekel</SimpleData>
+		<SimpleData name="adm2_pcode">ET0602</SimpleData>
+		<SimpleData name="adm1_en">Benishangul Gumz</SimpleData>
+		<SimpleData name="adm1_pcode">ET06</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(3981822.336648779 1232284.2485484125)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.769318636601,11.0015647394115</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">57</SimpleData>
+		<SimpleData name="fid">61</SimpleData>
+		<SimpleData name="shape_leng">6.39887107343</SimpleData>
+		<SimpleData name="shape_area">1.21087559508</SimpleData>
+		<SimpleData name="adm2_en">Mirab Omo</SimpleData>
+		<SimpleData name="adm2_pcode">ET1105</SimpleData>
+		<SimpleData name="adm1_en">South West Ethiopia</SimpleData>
+		<SimpleData name="adm1_pcode">ET11</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(3957842.2917194176 685458.536724048)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5539022278619,6.14575977248687</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">58</SimpleData>
+		<SimpleData name="fid">62</SimpleData>
+		<SimpleData name="shape_leng">6.10250002935</SimpleData>
+		<SimpleData name="shape_area">1.30912595294</SimpleData>
+		<SimpleData name="adm2_en">Nogob</SimpleData>
+		<SimpleData name="adm2_pcode">ET0510</SimpleData>
+		<SimpleData name="adm1_en">Somali</SimpleData>
+		<SimpleData name="adm1_pcode">ET05</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4785989.420324727 794321.5978618605)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>42.9932744591203,7.11713850444663</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">59</SimpleData>
+		<SimpleData name="fid">63</SimpleData>
+		<SimpleData name="shape_leng">6.00413953552</SimpleData>
+		<SimpleData name="shape_area">0.57169451202</SimpleData>
+		<SimpleData name="adm2_en">North Gondar</SimpleData>
+		<SimpleData name="adm2_pcode">ET0301</SimpleData>
+		<SimpleData name="adm1_en">Amhara</SimpleData>
+		<SimpleData name="adm1_pcode">ET03</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4237451.523352937 1485858.8768540001)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.0656746914349,13.2285780223715</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">60</SimpleData>
+		<SimpleData name="fid">64</SimpleData>
+		<SimpleData name="shape_leng">9.60931673111</SimpleData>
+		<SimpleData name="shape_area">1.33977004469</SimpleData>
+		<SimpleData name="adm2_en">North Shewa (AM)</SimpleData>
+		<SimpleData name="adm2_pcode">ET0305</SimpleData>
+		<SimpleData name="adm1_en">Amhara</SimpleData>
+		<SimpleData name="adm1_pcode">ET03</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4395688.166927531 1096671.6963862637)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.4871386457432,9.80338295655478</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">1</SimpleData>
+		<SimpleData name="fid">1</SimpleData>
+		<SimpleData name="shape_leng">9.49938745057</SimpleData>
+		<SimpleData name="shape_area">3.4345851528</SimpleData>
+		<SimpleData name="adm2_en">Afder</SimpleData>
+		<SimpleData name="adm2_pcode">ET0508</SimpleData>
+		<SimpleData name="adm1_en">Somali</SimpleData>
+		<SimpleData name="adm1_pcode">ET05</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4707865.466763155 593001.8331814881)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>42.2914750437183,5.31936800725542</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">2</SimpleData>
+		<SimpleData name="fid">2</SimpleData>
+		<SimpleData name="shape_leng">8.81842669742</SimpleData>
+		<SimpleData name="shape_area">1.80237191028</SimpleData>
+		<SimpleData name="adm2_en">Agnewak</SimpleData>
+		<SimpleData name="adm2_pcode">ET1202</SimpleData>
+		<SimpleData name="adm1_en">Gambela</SimpleData>
+		<SimpleData name="adm1_pcode">ET12</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(3835535.775862539 842644.2013821817)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.4552041024455,7.54767698796432</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">3</SimpleData>
+		<SimpleData name="fid">3</SimpleData>
+		<SimpleData name="shape_leng">1.63147301716</SimpleData>
+		<SimpleData name="shape_area">0.06429906903</SimpleData>
+		<SimpleData name="adm2_en">Alle</SimpleData>
+		<SimpleData name="adm2_pcode">ET0712</SimpleData>
+		<SimpleData name="adm1_en">SNNP</SimpleData>
+		<SimpleData name="adm1_pcode">ET07</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4136622.52202851 621410.8395509373)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.1599123617125,5.57341811428513</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">4</SimpleData>
+		<SimpleData name="fid">4</SimpleData>
+		<SimpleData name="shape_leng">1.8991461058</SimpleData>
+		<SimpleData name="shape_area">0.13268759161</SimpleData>
+		<SimpleData name="adm2_en">Amaro</SimpleData>
+		<SimpleData name="adm2_pcode">ET0721</SimpleData>
+		<SimpleData name="adm1_en">SNNP</SimpleData>
+		<SimpleData name="adm1_pcode">ET07</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4209566.896098546 645373.3691890043)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.815182822889,5.78761997666807</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">5</SimpleData>
+		<SimpleData name="fid">5</SimpleData>
+		<SimpleData name="shape_leng">7.497293695</SimpleData>
+		<SimpleData name="shape_area">1.69030149075</SimpleData>
+		<SimpleData name="adm2_en">Arsi</SimpleData>
+		<SimpleData name="adm2_pcode">ET0408</SimpleData>
+		<SimpleData name="adm1_en">Oromia</SimpleData>
+		<SimpleData name="adm1_pcode">ET04</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4417439.311436285 886367.9461178527)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.6825325013363,7.9368727654839</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">6</SimpleData>
+		<SimpleData name="fid">6</SimpleData>
+		<SimpleData name="shape_leng">5.29840244178</SimpleData>
+		<SimpleData name="shape_area">0.9470687932</SimpleData>
+		<SimpleData name="adm2_en">Assosa</SimpleData>
+		<SimpleData name="adm2_pcode">ET0603</SimpleData>
+		<SimpleData name="adm1_en">Benishangul Gumz</SimpleData>
+		<SimpleData name="adm1_pcode">ET06</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(3864143.262230468 1144351.1697894493)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.712189524891,10.2251683757599</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">7</SimpleData>
+		<SimpleData name="fid">7</SimpleData>
+		<SimpleData name="shape_leng">7.65866715601</SimpleData>
+		<SimpleData name="shape_area">0.75083210913</SimpleData>
+		<SimpleData name="adm2_en">Awi</SimpleData>
+		<SimpleData name="adm2_pcode">ET0309</SimpleData>
+		<SimpleData name="adm1_en">Amhara</SimpleData>
+		<SimpleData name="adm1_pcode">ET03</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4073925.8591176933 1254260.6443380963)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.5966986561518,11.1952898533072</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">8</SimpleData>
+		<SimpleData name="fid">8</SimpleData>
+		<SimpleData name="shape_leng">8.85538776019</SimpleData>
+		<SimpleData name="shape_area">2.70005333588</SimpleData>
+		<SimpleData name="adm2_en">Awsi /Zone 1</SimpleData>
+		<SimpleData name="adm2_pcode">ET0201</SimpleData>
+		<SimpleData name="adm1_en">Afar</SimpleData>
+		<SimpleData name="adm1_pcode">ET02</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4590880.080913809 1330403.5459858913)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>41.2405774424474,11.865485050304</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">9</SimpleData>
+		<SimpleData name="fid">10</SimpleData>
+		<SimpleData name="shape_leng">1.0820527538</SimpleData>
+		<SimpleData name="shape_area">0.03355991969</SimpleData>
+		<SimpleData name="adm2_en">Basketo</SimpleData>
+		<SimpleData name="adm2_pcode">ET0716</SimpleData>
+		<SimpleData name="adm1_en">SNNP</SimpleData>
+		<SimpleData name="adm1_pcode">ET07</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4069819.0290370006 700685.266628503)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.5598063738441,6.28174017795445</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">10</SimpleData>
+		<SimpleData name="fid">11</SimpleData>
+		<SimpleData name="shape_leng">4.16790938881</SimpleData>
+		<SimpleData name="shape_area">0.37788143281</SimpleData>
+		<SimpleData name="adm2_en">Bench Sheko</SimpleData>
+		<SimpleData name="adm2_pcode">ET1103</SimpleData>
+		<SimpleData name="adm1_en">South West Ethiopia</SimpleData>
+		<SimpleData name="adm1_pcode">ET11</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(3936609.556039902 773132.6370523238)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.3631653180161,6.92822290942648</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">11</SimpleData>
+		<SimpleData name="fid">12</SimpleData>
+		<SimpleData name="shape_leng">9.28583775284</SimpleData>
+		<SimpleData name="shape_area">3.60358000447</SimpleData>
+		<SimpleData name="adm2_en">Borena</SimpleData>
+		<SimpleData name="adm2_pcode">ET0412</SimpleData>
+		<SimpleData name="adm1_en">Oromia</SimpleData>
+		<SimpleData name="adm1_pcode">ET04</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4259955.222243495 497323.4069261646)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.267828858061,4.46301208565349</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">12</SimpleData>
+		<SimpleData name="fid">13</SimpleData>
+		<SimpleData name="shape_leng">4.43652875807</SimpleData>
+		<SimpleData name="shape_area">0.49955914983</SimpleData>
+		<SimpleData name="adm2_en">Buno Bedele</SimpleData>
+		<SimpleData name="adm2_pcode">ET0416</SimpleData>
+		<SimpleData name="adm1_en">Oromia</SimpleData>
+		<SimpleData name="adm1_pcode">ET04</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4043835.618524635 948274.5044090402)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.326393425876,8.48728430020942</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">13</SimpleData>
+		<SimpleData name="fid">14</SimpleData>
+		<SimpleData name="shape_leng">1.7868725787</SimpleData>
+		<SimpleData name="shape_area">0.11236998185</SimpleData>
+		<SimpleData name="adm2_en">Burji</SimpleData>
+		<SimpleData name="adm2_pcode">ET0722</SimpleData>
+		<SimpleData name="adm1_en">SNNP</SimpleData>
+		<SimpleData name="adm1_pcode">ET07</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4205294.906828869 611135.0276548879)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.7768068903435,5.48153816233783</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">14</SimpleData>
+		<SimpleData name="fid">15</SimpleData>
+		<SimpleData name="shape_leng">5.69054809231</SimpleData>
+		<SimpleData name="shape_area">0.79921258157</SimpleData>
+		<SimpleData name="adm2_en">Central</SimpleData>
+		<SimpleData name="adm2_pcode">ET0102</SimpleData>
+		<SimpleData name="adm1_en">Tigray</SimpleData>
+		<SimpleData name="adm1_pcode">ET01</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4329385.016075618 1570806.5463064332)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.8915273077877,13.9702754294009</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">15</SimpleData>
+		<SimpleData name="fid">16</SimpleData>
+		<SimpleData name="shape_leng">12.582148952</SimpleData>
+		<SimpleData name="shape_area">1.62305478323</SimpleData>
+		<SimpleData name="adm2_en">Central Gondar</SimpleData>
+		<SimpleData name="adm2_pcode">ET0311</SimpleData>
+		<SimpleData name="adm1_en">Amhara</SimpleData>
+		<SimpleData name="adm1_pcode">ET03</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4155799.247450025 1416978.0161020576)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.3321798171676,12.625496000782</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">16</SimpleData>
+		<SimpleData name="fid">17</SimpleData>
+		<SimpleData name="shape_leng">5.07190065251</SimpleData>
+		<SimpleData name="shape_area">0.99831774233</SimpleData>
+		<SimpleData name="adm2_en">Daawa</SimpleData>
+		<SimpleData name="adm2_pcode">ET0511</SimpleData>
+		<SimpleData name="adm1_en">Somali</SimpleData>
+		<SimpleData name="adm1_pcode">ET05</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4450418.619410956 469488.3558495271)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.9787906654696,4.21368221773898</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">17</SimpleData>
+		<SimpleData name="fid">18</SimpleData>
+		<SimpleData name="shape_leng">3.04346759946</SimpleData>
+		<SimpleData name="shape_area">0.35762582185</SimpleData>
+		<SimpleData name="adm2_en">Dawuro</SimpleData>
+		<SimpleData name="adm2_pcode">ET1104</SimpleData>
+		<SimpleData name="adm1_en">South West Ethiopia</SimpleData>
+		<SimpleData name="adm1_pcode">ET11</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4129914.3451481145 777947.2836580301)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.0996517835102,6.97115584230558</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">18</SimpleData>
+		<SimpleData name="fid">19</SimpleData>
+		<SimpleData name="shape_leng">1.44087598646</SimpleData>
+		<SimpleData name="shape_area">0.0570888029</SimpleData>
+		<SimpleData name="adm2_en">Derashe</SimpleData>
+		<SimpleData name="adm2_pcode">ET0723</SimpleData>
+		<SimpleData name="adm1_en">SNNP</SimpleData>
+		<SimpleData name="adm1_pcode">ET07</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4160830.7448584526 630287.2014712532)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.3773785274076,5.65277348685554</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">19</SimpleData>
+		<SimpleData name="fid">20</SimpleData>
+		<SimpleData name="shape_leng">1.87474986921</SimpleData>
+		<SimpleData name="shape_area">0.08036173592</SimpleData>
+		<SimpleData name="adm2_en">Dire Dawa rural</SimpleData>
+		<SimpleData name="adm2_pcode">ET1502</SimpleData>
+		<SimpleData name="adm1_en">Dire Dawa</SimpleData>
+		<SimpleData name="adm1_pcode">ET15</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4677237.482519684 1074251.438754632)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>42.0163391800414,9.60486028935387</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">61</SimpleData>
+		<SimpleData name="fid">65</SimpleData>
+		<SimpleData name="shape_leng">7.0995134348</SimpleData>
+		<SimpleData name="shape_area">0.75014841449</SimpleData>
+		<SimpleData name="adm2_en">North Shewa (OR)</SimpleData>
+		<SimpleData name="adm2_pcode">ET0406</SimpleData>
+		<SimpleData name="adm1_en">Oromia</SimpleData>
+		<SimpleData name="adm1_pcode">ET04</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4308987.976941609 1092319.9062286285)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.708297587739,9.76485876463209</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">62</SimpleData>
+		<SimpleData name="fid">66</SimpleData>
+		<SimpleData name="shape_leng">6.74834769352</SimpleData>
+		<SimpleData name="shape_area">0.92368199268</SimpleData>
+		<SimpleData name="adm2_en">North Wello</SimpleData>
+		<SimpleData name="adm2_pcode">ET0303</SimpleData>
+		<SimpleData name="adm1_en">Amhara</SimpleData>
+		<SimpleData name="adm1_pcode">ET03</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4364940.301009144 1335254.2953747178)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.2109258666578,11.9081256690205</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">63</SimpleData>
+		<SimpleData name="fid">67</SimpleData>
+		<SimpleData name="shape_leng">6.39791893349</SimpleData>
+		<SimpleData name="shape_area">1.04406913686</SimpleData>
+		<SimpleData name="adm2_en">North Western</SimpleData>
+		<SimpleData name="adm2_pcode">ET0101</SimpleData>
+		<SimpleData name="adm1_en">Tigray</SimpleData>
+		<SimpleData name="adm1_pcode">ET01</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4235555.491205553 1585674.776140104)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.0486423448631,14.0998517718544</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">64</SimpleData>
+		<SimpleData name="fid">69</SimpleData>
+		<SimpleData name="shape_leng">5.25383079252</SimpleData>
+		<SimpleData name="shape_area">0.31529820646</SimpleData>
+		<SimpleData name="adm2_en">Oromia</SimpleData>
+		<SimpleData name="adm2_pcode">ET0310</SimpleData>
+		<SimpleData name="adm1_en">Amhara</SimpleData>
+		<SimpleData name="adm1_pcode">ET03</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4453973.100955037 1202758.7600899409)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>40.0107211164513,10.7410930662107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">65</SimpleData>
+		<SimpleData name="fid">70</SimpleData>
+		<SimpleData name="shape_leng">1.01086910871</SimpleData>
+		<SimpleData name="shape_area">0.04436935001</SimpleData>
+		<SimpleData name="adm2_en">Region 14</SimpleData>
+		<SimpleData name="adm2_pcode">ET1401</SimpleData>
+		<SimpleData name="adm1_en">Addis Ababa</SimpleData>
+		<SimpleData name="adm1_pcode">ET14</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4317586.378714138 1003821.4176716156)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.7855383450517,8.98048300121685</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">66</SimpleData>
+		<SimpleData name="fid">71</SimpleData>
+		<SimpleData name="shape_leng">11.4277546629</SimpleData>
+		<SimpleData name="shape_area">2.77065785119</SimpleData>
+		<SimpleData name="adm2_en">Shabelle</SimpleData>
+		<SimpleData name="adm2_pcode">ET0506</SimpleData>
+		<SimpleData name="adm1_en">Somali</SimpleData>
+		<SimpleData name="adm1_pcode">ET05</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4859495.982708234 646102.3948132364)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>43.6535951438422,5.7941355045842</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">67</SimpleData>
+		<SimpleData name="fid">72</SimpleData>
+		<SimpleData name="shape_leng">3.31749462947</SimpleData>
+		<SimpleData name="shape_area">0.19180854158</SimpleData>
+		<SimpleData name="adm2_en">Sheka</SimpleData>
+		<SimpleData name="adm2_pcode">ET1101</SimpleData>
+		<SimpleData name="adm1_en">South West Ethiopia</SimpleData>
+		<SimpleData name="adm1_pcode">ET11</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(3942126.7256257115 841510.9946942837)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4127268956562,7.53758529987136</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">68</SimpleData>
+		<SimpleData name="fid">73</SimpleData>
+		<SimpleData name="shape_leng">4.17416318909</SimpleData>
+		<SimpleData name="shape_area">0.55419544698</SimpleData>
+		<SimpleData name="adm2_en">Sidama</SimpleData>
+		<SimpleData name="adm2_pcode">ET1600</SimpleData>
+		<SimpleData name="adm1_en">Sidama</SimpleData>
+		<SimpleData name="adm1_pcode">ET16</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4290891.999355307 743529.2015087733)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.5457386552704,6.66415956890913</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">69</SimpleData>
+		<SimpleData name="fid">74</SimpleData>
+		<SimpleData name="shape_leng">3.78063474224</SimpleData>
+		<SimpleData name="shape_area">0.21699458165</SimpleData>
+		<SimpleData name="adm2_en">Siltie</SimpleData>
+		<SimpleData name="adm2_pcode">ET0720</SimpleData>
+		<SimpleData name="adm1_en">SNNP</SimpleData>
+		<SimpleData name="adm1_pcode">ET07</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4255300.328612675 871935.8355236942)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.2260132371159,7.80844885893294</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">70</SimpleData>
+		<SimpleData name="fid">75</SimpleData>
+		<SimpleData name="shape_leng">7.99237879367</SimpleData>
+		<SimpleData name="shape_area">2.51392101341</SimpleData>
+		<SimpleData name="adm2_en">Siti</SimpleData>
+		<SimpleData name="adm2_pcode">ET0501</SimpleData>
+		<SimpleData name="adm1_en">Somali</SimpleData>
+		<SimpleData name="adm1_pcode">ET05</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4656894.47838054 1147169.2730401289)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>41.8335948646105,10.2500807832197</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">71</SimpleData>
+		<SimpleData name="fid">76</SimpleData>
+		<SimpleData name="shape_leng">5.9811321642</SimpleData>
+		<SimpleData name="shape_area">0.44521082992</SimpleData>
+		<SimpleData name="adm2_en">South Eastern</SimpleData>
+		<SimpleData name="adm2_pcode">ET0106</SimpleData>
+		<SimpleData name="adm1_en">Tigray</SimpleData>
+		<SimpleData name="adm1_pcode">ET01</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4386463.729761576 1491269.9174397325)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.4042741168075,13.2758918044287</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">72</SimpleData>
+		<SimpleData name="fid">77</SimpleData>
+		<SimpleData name="shape_leng">6.41733059637</SimpleData>
+		<SimpleData name="shape_area">1.16971659637</SimpleData>
+		<SimpleData name="adm2_en">South Gondar</SimpleData>
+		<SimpleData name="adm2_pcode">ET0302</SimpleData>
+		<SimpleData name="adm1_en">Amhara</SimpleData>
+		<SimpleData name="adm1_pcode">ET03</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4243549.427029103 1317110.0472010772)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.1204530921688,11.7485941465107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">73</SimpleData>
+		<SimpleData name="fid">78</SimpleData>
+		<SimpleData name="shape_leng">7.6190878393</SimpleData>
+		<SimpleData name="shape_area">1.89439927767</SimpleData>
+		<SimpleData name="adm2_en">South Omo</SimpleData>
+		<SimpleData name="adm2_pcode">ET0707</SimpleData>
+		<SimpleData name="adm1_en">SNNP</SimpleData>
+		<SimpleData name="adm1_pcode">ET07</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4049525.999470007 599846.08650855)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.3775109876329,5.38058314282505</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">74</SimpleData>
+		<SimpleData name="fid">79</SimpleData>
+		<SimpleData name="shape_leng">8.69434347058</SimpleData>
+		<SimpleData name="shape_area">1.53330768732</SimpleData>
+		<SimpleData name="adm2_en">South Wello</SimpleData>
+		<SimpleData name="adm2_pcode">ET0304</SimpleData>
+		<SimpleData name="adm1_en">Amhara</SimpleData>
+		<SimpleData name="adm1_pcode">ET03</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4364620.331627961 1231778.0535429094)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.2080515328021,10.9971010475783</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">75</SimpleData>
+		<SimpleData name="fid">80</SimpleData>
+		<SimpleData name="shape_leng">4.64824355379</SimpleData>
+		<SimpleData name="shape_area">0.47332331751</SimpleData>
+		<SimpleData name="adm2_en">South West Shewa</SimpleData>
+		<SimpleData name="adm2_pcode">ET0413</SimpleData>
+		<SimpleData name="adm1_en">Oromia</SimpleData>
+		<SimpleData name="adm1_pcode">ET04</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4245549.485571986 958634.1803916813)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.1384199237509,8.57931662052158</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">76</SimpleData>
+		<SimpleData name="fid">81</SimpleData>
+		<SimpleData name="shape_leng">3.61878778878</SimpleData>
+		<SimpleData name="shape_area">0.42149329354</SimpleData>
+		<SimpleData name="adm2_en">Southern</SimpleData>
+		<SimpleData name="adm2_pcode">ET0104</SimpleData>
+		<SimpleData name="adm1_en">Tigray</SimpleData>
+		<SimpleData name="adm1_pcode">ET01</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4401700.37354032 1420157.3900492082)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.5411472166588,12.6533646717331</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">77</SimpleData>
+		<SimpleData name="fid">83</SimpleData>
+		<SimpleData name="shape_leng">7.27635216178</SimpleData>
+		<SimpleData name="shape_area">1.0294801534</SimpleData>
+		<SimpleData name="adm2_en">West Arsi</SimpleData>
+		<SimpleData name="adm2_pcode">ET0417</SimpleData>
+		<SimpleData name="adm1_en">Oromia</SimpleData>
+		<SimpleData name="adm1_pcode">ET04</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4339240.3803686 787769.644240422)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.9800595515372,7.05873109631384</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">78</SimpleData>
+		<SimpleData name="fid">84</SimpleData>
+		<SimpleData name="shape_leng">9.10313142259</SimpleData>
+		<SimpleData name="shape_area">1.12228831568</SimpleData>
+		<SimpleData name="adm2_en">West Gojam</SimpleData>
+		<SimpleData name="adm2_pcode">ET0307</SimpleData>
+		<SimpleData name="adm1_en">Amhara</SimpleData>
+		<SimpleData name="adm1_pcode">ET03</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4142538.057019003 1241348.1389719313)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.2130525166696,11.0814798082184</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">79</SimpleData>
+		<SimpleData name="fid">85</SimpleData>
+		<SimpleData name="shape_leng">8.03031785507</SimpleData>
+		<SimpleData name="shape_area">1.39475476504</SimpleData>
+		<SimpleData name="adm2_en">West Gondar</SimpleData>
+		<SimpleData name="adm2_pcode">ET0312</SimpleData>
+		<SimpleData name="adm1_en">Amhara</SimpleData>
+		<SimpleData name="adm1_pcode">ET03</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4026869.2628845144 1407831.7400668557)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.1739820600027,12.5453077850055</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">80</SimpleData>
+		<SimpleData name="fid">86</SimpleData>
+		<SimpleData name="shape_leng">7.37072149991</SimpleData>
+		<SimpleData name="shape_area">0.78458609254</SimpleData>
+		<SimpleData name="adm2_en">West Guji</SimpleData>
+		<SimpleData name="adm2_pcode">ET0415</SimpleData>
+		<SimpleData name="adm1_en">Oromia</SimpleData>
+		<SimpleData name="adm1_pcode">ET04</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4260486.9156166995 640442.2635795454)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.2726051408972,5.74354719003471</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">81</SimpleData>
+		<SimpleData name="fid">87</SimpleData>
+		<SimpleData name="shape_leng">7.08222199029</SimpleData>
+		<SimpleData name="shape_area">1.43933184277</SimpleData>
+		<SimpleData name="adm2_en">West Hararge</SimpleData>
+		<SimpleData name="adm2_pcode">ET0409</SimpleData>
+		<SimpleData name="adm1_en">Oromia</SimpleData>
+		<SimpleData name="adm1_pcode">ET04</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4538850.496255605 968875.4288876915)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>40.7731877311988,8.67027495058845</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">82</SimpleData>
+		<SimpleData name="fid">88</SimpleData>
+		<SimpleData name="shape_leng">7.68606049243</SimpleData>
+		<SimpleData name="shape_area">1.16900444803</SimpleData>
+		<SimpleData name="adm2_en">West Shewa</SimpleData>
+		<SimpleData name="adm2_pcode">ET0405</SimpleData>
+		<SimpleData name="adm1_en">Oromia</SimpleData>
+		<SimpleData name="adm1_pcode">ET04</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4210011.865575544 1025707.7747610301)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.8191800517105,9.17462900777868</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">83</SimpleData>
+		<SimpleData name="fid">89</SimpleData>
+		<SimpleData name="shape_leng">7.1103519007</SimpleData>
+		<SimpleData name="shape_area">1.01812350341</SimpleData>
+		<SimpleData name="adm2_en">West Wellega</SimpleData>
+		<SimpleData name="adm2_pcode">ET0401</SimpleData>
+		<SimpleData name="adm1_en">Oromia</SimpleData>
+		<SimpleData name="adm1_pcode">ET04</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(3929662.7883130684 1043790.1113891805)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.3007614417737,9.33495089962967</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">84</SimpleData>
+		<SimpleData name="fid">90</SimpleData>
+		<SimpleData name="shape_leng">4.95523335717</SimpleData>
+		<SimpleData name="shape_area">1.11303041314</SimpleData>
+		<SimpleData name="adm2_en">Western</SimpleData>
+		<SimpleData name="adm2_pcode">ET0105</SimpleData>
+		<SimpleData name="adm1_en">Tigray</SimpleData>
+		<SimpleData name="adm1_pcode">ET01</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4129697.319521601 1554622.5854506735)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.0977022091367,13.8291496258543</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="id">85</SimpleData>
+		<SimpleData name="fid">91</SimpleData>
+		<SimpleData name="shape_leng">3.22731993238</SimpleData>
+		<SimpleData name="shape_area">0.36900673908</SimpleData>
+		<SimpleData name="adm2_en">Wolayita</SimpleData>
+		<SimpleData name="adm2_pcode">ET0706</SimpleData>
+		<SimpleData name="adm1_en">SNNP</SimpleData>
+		<SimpleData name="adm1_pcode">ET07</SimpleData>
+		<SimpleData name="adm0_en">Ethiopia</SimpleData>
+		<SimpleData name="adm0_pcode">ET</SimpleData>
+		<SimpleData name="date">2021/12/09</SimpleData>
+		<SimpleData name="validon">2021/12/14</SimpleData>
+		<SimpleData name="wkt_geom">POINT(4199368.701073681 765793.8969723879)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.7235708782763,6.86277473969687</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
